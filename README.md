@@ -108,5 +108,5 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (v20 or higher)
 - **npm** or **yarn** or **pnpm**
 - **Git**
-- **Supabase account** (free tier available at [supabase.com](https://supabase.com))
+- **Supabase account** (free tier available at [supabase.com](https://supabase.com)
 
